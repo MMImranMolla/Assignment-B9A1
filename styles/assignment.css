@@ -227,7 +227,7 @@ body {font-family: 'Inter', sans-serif;
     width: 429px;
     height: 433px;
     flex-shrink: 0;
-    margin-right: -30px;
+    margin-right: -10px;
     }
 .fifty-percent-right img {margin-left: -120px;}
 .red-bottom {background-image: url("../image/Rectangle\ 2.png");
